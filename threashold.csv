@@ -1,0 +1,6 @@
+name,sign,value
+cbo,>,1
+cboModified,>,1
+fanin,>,0
+fanout,>,1
+wmc,>,1
