@@ -1,0 +1,2 @@
+class,cbo,cboModified,fanin,fanout,wmc
+org.apache.commons.codec.binary.BaseNTestData,4,13,9,4,15
