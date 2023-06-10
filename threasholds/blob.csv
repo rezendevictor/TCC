@@ -1,6 +1,0 @@
-name,sign,value
-cbo,>,1
-cboModified,>,1
-fanin,=,9
-fanout,>,1
-wmc,>,1

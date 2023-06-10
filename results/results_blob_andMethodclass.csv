@@ -1,4 +1,0 @@
-class,cbo,cboModified,fanin,fanout,wmc
-org.andengine.engine.options.EngineOptions,10,19,9,10,20
-org.andengine.opengl.texture.bitmap.BitmapTextureFormat,3,12,9,3,8
-org.andengine.util.StreamUtils,3,12,9,3,32

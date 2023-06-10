@@ -1,0 +1,9 @@
+Bad smell,class
+Data Class,org.apache.commons.codec.CharEncoding
+Data Class,org.apache.commons.codec.language.bm.ResourceConstants
+Large Class,org.apache.commons.codec.binary.Base32
+Large Class,org.apache.commons.codec.binary.Base64
+Large Class,org.apache.commons.codec.binary.BaseNCodec
+Large Class,org.apache.commons.codec.language.DoubleMetaphone
+Large Class,org.apache.commons.codec.language.bm.PhoneticEngine
+Large Class,org.apache.commons.codec.language.bm.Rule

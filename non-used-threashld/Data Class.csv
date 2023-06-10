@@ -1,0 +1,9 @@
+name,sign,value
+totalMethodsQty,<,5
+fanin,<=,2
+fanout,<=,7
+returnQty,<=,0
+finalFieldsQty,>=,3
+mathOperationsQty,=,0
+maxNestedBlocksQty,<,1
+noc,=,0

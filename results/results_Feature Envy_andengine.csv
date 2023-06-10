@@ -1,0 +1,10 @@
+class,fanout
+org.anddev.andengine.entity.text.Text,19
+org.anddev.andengine.entity.scene.Scene,19
+org.anddev.andengine.entity.Entity,21
+org.anddev.andengine.engine.Engine,53
+org.anddev.andengine.entity.sprite.batch.SpriteBatch,17
+org.anddev.andengine.ui.activity.BaseGameActivity,23
+org.anddev.andengine.entity.scene.menu.item.decorator.BaseMenuItemDecorator,19
+org.anddev.andengine.engine.camera.hud.controls.BaseOnScreenControl,16
+org.anddev.andengine.entity.primitive.Line,16

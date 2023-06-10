@@ -10,5 +10,5 @@ def data_logger(process):
 def write_results(results, bad_smell,file):
     data_logger('Writing results....')
     bad_smell = bad_smell.replace('.csv', '')
-    file = file.replace('.csv', '')
+    file = file.replace('.csv', '').replace('class', '')
     results.to_csv(f'./results/results_{bad_smell}_{file}.csv',index=False)

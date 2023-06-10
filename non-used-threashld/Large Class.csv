@@ -1,0 +1,9 @@
+name,sign,value
+loc,>,200
+totalMethodsQty,>,12
+cboModified,>=,10
+staticFieldsQty,>,1
+finalFieldsQty,>,3
+stringLiteralsQty,>,3
+assignmentsQty,>,21
+variablesQty,>,15
